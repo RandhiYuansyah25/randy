@@ -1,0 +1,143 @@
+body {
+     background-image: url("pohon.png");
+     background-size: 100% 100%;
+     min-height: 600px;
+}
+    
+.wrap{
+	background: #5F9EAD;
+	width: 1000px;
+	margin: 10px auto;
+}
+ 
+ 
+/*bagian menu*/
+.wrap .menu{
+	background: #5F9EAD;
+}
+ 
+.wrap .menu ul{
+	padding: 12px;
+	margin: 1px;
+	background: #5F9EAD;
+	overflow: hidden;
+}
+ 
+.wrap .menu ul li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+}
+/*akhir menu*/
+ 
+.clear{
+	clear: both;
+}
+ 
+.badan{
+	height: 450px;
+}
+
+.wrap .badan .content{
+	background: #FFFFFF;
+	float: left;
+	height: 200%;
+	width: 100%;	
+}
+ 
+.wrap .footer{
+	width: 100%;
+	padding: 10px;
+}
+
+.home{
+  background: #5F9EAD;
+    padding: 11px 16px;
+    margin: 0 auto;
+    border: 1px solid #5F9EAD;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration:none;
+}
+
+.About Me{
+  background: #5F9EAD;
+    padding: 11px 16px;
+    margin: 0 auto;
+    border: 1px solid #5F9EAD;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration:none;
+}
+
+.HTML{
+  background: #5F9EAD;
+    padding: 11px 16px;
+    margin: 0 auto;
+    border: 1px solid #5F9EAD;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration:none;
+}
+
+.CSS{
+  background: #5F9EAD;
+    padding: 11px 16px;
+    margin: 0 auto;
+    border: 1px solid #5F9EAD;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration:none;
+}
+
+.PHP{
+  background: #5F9EAD;
+    padding: 11px 16px;
+    margin: 0 auto;
+    border: 1px solid #5F9EAD;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration:none;
+}
+
+.Java Script{
+  background: #5F9EAD;
+    padding: 11px 16px;
+    margin: 0 auto;
+    border: 1px solid #5F9EAD;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration:none;
+}
+
+form{
+    width:300px;
+    margin:0px;
+}
+.search {
+    padding:8px 15px;
+    background-color:#ffffff;
+    border:0px solid #ffffff;
+}
+.button {
+    position:relative;
+    padding:6px 15px;
+    left:-8px;
+    border:2px solid #53bd84;
+    background-color:#53bd84;
+    color:#fafafa;
+}
+.button:hover  {
+    background:#53bd84;
+    }
+
+.home:hover{
+    background: #708090;
+}
+
